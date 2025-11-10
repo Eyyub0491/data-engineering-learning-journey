@@ -1,1 +1,1 @@
-This folder contains all my Kaggle and DataCamp Jupyter notebooks.
+This folder contains all my Kaggle Jupyter notebooks.
