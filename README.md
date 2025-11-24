@@ -1,7 +1,6 @@
 # My Data Learning Journey
 This repository documents my ongoing learning path in data engineering and data science, including hands-on notebooks, analysis projects, and certificates from Kaggle, DataCamp, and other platforms.
 
-Growing in data engineering is not a single moment — it’s a consistent practice of learning, experimenting, and improving.
 Every completed course represents:
 
 - One more skill learned
