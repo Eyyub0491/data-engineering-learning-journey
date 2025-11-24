@@ -4,13 +4,13 @@ As I progress through the track, I will continue updating this folder with new s
 
 
 ### 🔹 1. Intermediate Python for Developers
-[View Verified Certificate]([https://www.datacamp.com/xxxxxxx](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd75acf6b2b2a26ca414dd047e043a2b3ff7aa6d))
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/dd75acf6b2b2a26ca414dd047e043a2b3ff7aa6d)
 
 ### 🔹 2. Introduction to Importing Data in Python
-[View Verified Certificate]([https://www.datacamp.com/xxxxxxx](https://www.datacamp.com/completed/statement-of-accomplishment/course/6816081766f58db8e9db073671fe058707be6ffd))
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/6816081766f58db8e9db073671fe058707be6ffd)
 
 ### 🔹 3. Intermediate Importing Data in Python
-[View Verified Certificate]([https://www.datacamp.com/xxxxxxx](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005baaf96ef6a0ab94ec87416ca988b45b6))
+https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005baaf96ef6a0ab94ec87416ca988b45b6)
 
 ### 🔹 4. Introduction to APIs in Python
-[View Verified Certificate]([https://www.datacamp.com/xxxxxxx](https://www.datacamp.com/completed/statement-of-accomplishment/course/57e74152aaedc67926fbaa19c0b8a1f7aefed8ce))
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/57e74152aaedc67926fbaa19c0b8a1f7aefed8ce)
