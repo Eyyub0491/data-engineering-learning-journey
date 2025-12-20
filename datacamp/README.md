@@ -14,3 +14,6 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005ba
 
 ### 🔹 4. Introduction to APIs in Python
 (https://www.datacamp.com/completed/statement-of-accomplishment/course/57e74152aaedc67926fbaa19c0b8a1f7aefed8ce)
+
+### 🔹 5. Cleaning Data in Python
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/576e03a91abd0e878438403c1544ea6e2c34da00)
