@@ -23,3 +23,6 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005ba
 
 ### 🔹 7. Intermediate Git
 (https://www.datacamp.com/completed/statement-of-accomplishment/course/d1a0a60822c6b4e3493191b34832a1df3cd1719d)
+
+### 🔹 8. ETL and ELT in Python
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/7e3afe32858406b9821779679f86aa45cd2cc3ac)
