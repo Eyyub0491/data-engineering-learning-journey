@@ -1,4 +1,4 @@
-This folder contains all of my DataCamp Statements of Accomplishment earned while completing the Data Engineer in Python career track. Each PDF represents a milestone in my learning journey—proof of consistent effort, daily improvement, and commitment to mastering data engineering skills.
+This folder contains all of my DataCamp Statements of Accomplishment earned while completing the Data Engineer in Python career track. Each PDF represents a milestone in my learning journey, proof of consistent effort, daily improvement, and commitment to mastering data engineering skills.
 
 As I progress through the track, I will continue updating this folder with new statements and learning links.
 
