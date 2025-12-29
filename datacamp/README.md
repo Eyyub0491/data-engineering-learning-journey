@@ -26,3 +26,6 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005ba
 
 ### 🔹 8. ETL and ELT in Python
 (https://www.datacamp.com/completed/statement-of-accomplishment/course/7e3afe32858406b9821779679f86aa45cd2cc3ac)
+
+### 🔹 9. Introduction to Apache Airflow in Python
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/f9324f230125d6e1a823aaf79214acfd95d0139d)
