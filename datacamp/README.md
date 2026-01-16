@@ -29,3 +29,9 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005ba
 
 ### 🔹 9. Introduction to Apache Airflow in Python
 (https://www.datacamp.com/completed/statement-of-accomplishment/course/f9324f230125d6e1a823aaf79214acfd95d0139d)
+
+### 🔹 10. Introduction to Apache Airflow in Python
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/b3b766f5668efcfde1ccf0ff3aea5e3613c7ad63)
+
+### 🔹 11. Writing Efficient Python Code
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/d9ed51eb8f090c425db1ad45c1ca13b13bb467e9)
